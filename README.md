@@ -50,3 +50,9 @@ An adoption kit for operating a personal AI agent (Muse) over time. It documents
 ## Version
 
 Version 1.5 (2026-11-11)
+
+## License
+
+MIT Licenseのもとで公開しています。詳細は [LICENSE](LICENSE) を参照してください。
+
+Released under the MIT License. See the [LICENSE](LICENSE) file for details.
