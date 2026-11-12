@@ -49,7 +49,7 @@ An adoption kit for operating a personal AI agent (Muse) over time. It documents
 
 ## Version
 
-Version 1.5 (2026-11-11)
+Version 1.6 (2026-11-13)
 
 ## License
 
