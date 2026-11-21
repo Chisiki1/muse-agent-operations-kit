@@ -64,7 +64,7 @@ A procedure for systematically discovering latent defects in an existing codebas
 
 ## Version
 
-- 導入キット / Adoption kit: Version 1.6 (2026-11-13)
+- 導入キット / Adoption kit: Version 1.7 (2026-11-21)
 - 不具合発見スキル / Defect-discovery skill: 初版 (2026-11-16、英語・一般形) / First release (2026-11-16, English, general form)
 
 ## License
